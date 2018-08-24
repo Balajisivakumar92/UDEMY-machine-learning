@@ -1,4 +1,4 @@
-In this episode you will learn:
+# In this episode you will learn:
 
     What is Machine Learning
     Mastering Data Science through online courses
@@ -6,7 +6,7 @@ In this episode you will learn:
     Million dollar question: R vs Python (vs Julia)
     What Grand project Hadelin and I are currently working on
 
-    Plus you will get an overview of:
+    ### Plus you will get an overview of:
         Regressions
         Classifications
         Clustering
