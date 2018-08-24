@@ -6,7 +6,7 @@
     Million dollar question: R vs Python (vs Julia)
     What Grand project Hadelin and I are currently working on
 
-    ### Plus you will get an overview of:
+   ### Plus you will get an overview of:
         Regressions
         Classifications
         Clustering
