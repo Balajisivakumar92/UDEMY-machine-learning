@@ -13,13 +13,13 @@ And then Understand the working process of Human brain.
   <img width="600" height="350" src="https://github.com/Balajisivakumar92/UDEMY-machine-learning/blob/master/PART-8/IMG/2-whyareneuron.jpg">
 </p>
 
-### And understand the consept behind technological based approach of NeuroScience for Deep Learning.
+### And understand the concept behind technological based approach of NeuroScience for Deep Learning.
 
 <p align="center">
   <img width="600" height="350" src="https://github.com/Balajisivakumar92/UDEMY-machine-learning/blob/master/PART-8/IMG/1*QVIyc5HnGDWTNX3m-nIm9w.png">
 </p>
 
-And here understand the consept of each and every layer in Neural Network.
+And here understand the concept of each and every layer in Neural Network.
 
     *Input layer
     *synapse(weights)
