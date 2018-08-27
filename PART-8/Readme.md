@@ -53,6 +53,6 @@ And mainly understand function behind the activation function.
 </p>
     
     
-**AND THEN I HOPE I HAVE UNDERSTAND THE BASIC CONSEPT OF DEEP LEARNING UP TO NOW.
+**AND THEN I HOPE I HAVE UNDERSTAND THE BASIC CONSEPT OF DEEP LEARNING UP TO NOW.**
     
-**STILL MY NEURON'S GRTTING TRAIN................................................
+**STILL MY NEURON'S GRTTING TRAIN................................................**
